@@ -1,0 +1,23 @@
+tags
+test.sh
+.luarc.json
+nvim
+
+spell/
+# custom files
+custom/
+
+# temp files directories
+cache/
+log/
+*.swp
+.DS_Store
+
+# editor configs
+.vscode
+.idea
+.vagrant/
+**/.vagrant/
+run_tests
+tests/run_tests_in_isolation
+tests/helpers/helpers.sh
